@@ -1,0 +1,17 @@
+Soy Claudia Souza, alumna de Cilsa
+
+Para esta tarea 7 de boostrap, que era realizar una tienda online use una plantilla de:
+https://templatesjungle.gumroad.com/l/waggy-pet-shop-ecommerce-html-website-template
+
+La modifiqúe para que cumpla con las especificaciones. La adapte para que las imagenes puedan ser leídas por un lector de pantalla.
+Cambié imagenes, el código index, también creé una página de productos. 
+
+Muestra un carrito con una compra de tres productos fijos, muestra el importe de cada uno y el total también. 
+
+Me faltaría agregar la opción de modo oscuro. y que al cliquear un producto me lo muestre en una ventana exclusiva para él.
+El menu de cada tipo de mascota, por ahora no lleva a los productos especificos de esa categoría de mascotas.
+En el menu principal están las opciones pero todavía no lleva a la página determinada.
+
+Está guardado local, y remoto en GITHUB.
+
+Las modificaciones que le vaya haciendo las iré subiendo.
